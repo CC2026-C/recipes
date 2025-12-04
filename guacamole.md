@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* avocado
-* limes
-* sea salt
+* avocado £3
+* limes £1
+* sea salt £0.99
 ## Instructions
