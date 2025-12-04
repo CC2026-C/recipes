@@ -4,4 +4,4 @@
 * limes £1
 * sea salt £0.99
 ## Instructions
-Mash avocado and add lime. Sprinkle sea salt. Enjoy! 
+Mash avocado, mix in a bowl and add lime. Sprinkle sea salt. Enjoy! 
